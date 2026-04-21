@@ -14,4 +14,4 @@ llama-index-core==0.12.24.post1
 llama-index-llms-ollama==0.5.3
 llama-index-llms-openai==0.3.25
 openai==1.65.2
-python-dotenv==1.0.1
+python-dotenv==1.2.2
